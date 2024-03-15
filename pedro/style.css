@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(105, 158, 158);
+}
+h1 {
+    background-color: rgb(255, 255, 255); background-position: 9px; color: rgb(245, 16, 16);
+}
+
+.filme {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
