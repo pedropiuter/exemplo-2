@@ -1,0 +1,11 @@
+.gente {
+    border: 2px solid crimson;
+}
+.familia {
+    border: 2px dashed powderblue;
+
+}
+.pessoa {
+    border: 2px inset darkblue;
+
+}
