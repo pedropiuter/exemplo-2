@@ -1,0 +1,6 @@
+.gente { border: 2px solid crimson; } 
+.familia { border: 2px dashed powderblue; } 
+.pessoa { border-top: 2px solid slateblue; }
+.pessoa { border-bottom: 2px solid salmon;}
+.pessoa { border-left: 2px solid greenyellow;}
+.pessoa { border-right: 2px solid blueviolet;}
